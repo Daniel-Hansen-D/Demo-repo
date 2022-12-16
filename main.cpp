@@ -20,7 +20,7 @@ int main()
 
 void printname()
 {
-	cout<<"Please enter your name: ";
+	cout<<"Please enter your name, hansen: ";
 	cin >> string name;
 
 	cout<<"Good day to you "<< name <<"."<<endl;
